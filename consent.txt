@@ -1,4 +1,4 @@
 {
  "bannerid" : "08179b47c1440d3b",
-  "ads_consent" : "1"	
+  "ads_consent" : ""	
 }
